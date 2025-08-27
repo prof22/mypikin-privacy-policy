@@ -1,8 +1,7 @@
 # mypikin-privacy-policy
-my pikin app privacy policy
 Privacy Policy for My Pikin
 
-Effective Date: 27th August, 2025
+Effective Date: 27 August, 2025
 
 My Pikin (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and protect the information you provide when using our mobile application (“the App”).
 
@@ -22,7 +21,7 @@ We use the information you provide for the following purposes:
 
 To help you track your child’s growth and milestones.
 
-To sync your data securely to the cloud so that your records are backed up and accessible across devices.
+To sync your data securely to the cloud so your records are backed up and accessible across devices.
 
 To provide personalized tips and activities for supporting child development.
 
@@ -56,10 +55,12 @@ You have the right to:
 
 Access, update, or delete your child’s information at any time within the app.
 
-Request deletion of your data by contacting us.
+Request deletion of your account and associated data (see below).
 
-7. Contact Us
+7. Account Deletion
 
-If you have any questions or concerns about this Privacy Policy or your data, please contact us:
+If you wish to delete your account and all associated data, you can:
 
-Email: mine4christ@gmail.com
+Go to the Settings section in the app and select Delete Account; or
+
+Contact us at mine4christ@gmail.com
