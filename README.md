@@ -1,66 +1,34 @@
-# mypikin-privacy-policy
 Privacy Policy for My Pikin
+Effective Date: August 27, 2025At My Pikin, we value your trust and are committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and safeguard your information when you use our mobile app (“the App”), designed to help parents track their child’s developmental milestones.1. Information We CollectWe collect only the information needed to provide a helpful and secure experience:Child Information: Basic details you provide, such as your child’s name, date of birth, gender, and milestone progress (e.g., developmental checklists or summaries).
+User Information: Your name, email address (if provided for account setup or support), and language preferences (English, Yoruba, Igbo, or Hausa).
+Device Information: Non-personal data like device type, operating system, and app usage patterns to improve performance.
+Usage Data: Information on how you interact with features like milestone trackers, tips, or videos.
 
-Effective Date: 27 August, 2025
+2. How We Use Your InformationWe use your information to:Help you track and understand your child’s growth with tools like milestone checklists, tips, and videos.
+Provide personalized activities to support your child’s development.
+Enable secure cloud backups so your data is safe and accessible across your devices.
+Send optional reminders for doctor’s visits or screenings (if you enable notifications).
+Improve the App’s features and user experience based on usage patterns.
 
-My Pikin (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and protect the information you provide when using our mobile application (“the App”).
+My Pikin is an educational tool for parents and does not provide medical diagnoses or professional health advice. Always consult a healthcare professional for medical concerns.3. Data Storage and SecurityYour data is stored securely using industry-standard encryption in the cloud.
+We do not sell, rent, or share your personal information with third parties for marketing purposes.
+Access to your data is limited to authorized personnel for system maintenance and support.
 
-1. Information We Collect
+4. Sharing of InformationWe only share your information when:You explicitly consent, such as sharing a milestone summary with a doctor, caregiver, or family member via the App’s sharing feature.
+Required by law or to comply with legal processes (e.g., court orders).
+Necessary to protect the safety or rights of users or the public.
 
-When you use My Pikin, we may collect the following types of information:
+Any shared milestone summaries are limited to the data you choose to share (e.g., developmental progress).5. Children’s PrivacyMy Pikin is designed for parents and caregivers, not for direct use by children. We do not knowingly collect personal data from children under 13 without parental consent. Child information (e.g., name, milestones) is provided and managed solely by parents or guardians.6. Your RightsYou have control over your data. You can:Access, update, or delete your child’s information directly in the App at any time.
+Request complete data deletion by contacting us at mine4christ@gmail.com.
+Opt out of optional notifications or cloud syncing in the App settings.
 
-Child Information: Basic details such as name, date of birth, gender, and milestones.
+7. Data RetentionWe retain your data only as long as needed to provide the App’s services or as required by law. If you delete your account or request data deletion, we will securely remove your personal information from our systems, except where legally required to retain it.
+8. Third-Party Services The App may use third-party services (e.g., cloud storage providers) to support features like data backups. These providers are bound by strict agreements to protect your data and comply with applicable privacy laws.
+9. Updates to This PolicyWe may update this Privacy Policy to reflect changes in the App or legal requirements. We’ll notify you of significant changes via the App or email. The latest version is always available in the App.
 
-User Information: Your name, email address (if provided), and language preferences.
+10. Contact UsHave questions or concerns about your privacy or this policy?
 
-Device Information: Non-personal data such as device type, operating system, and app usage patterns.
+Reach out to us:
+Email: mine4christ@gmail.com
+We’re here to help you feel confident about using My Pikin.
 
-2. How We Use Your Information
-
-We use the information you provide for the following purposes:
-
-To help you track your child’s growth and milestones.
-
-To sync your data securely to the cloud so your records are backed up and accessible across devices.
-
-To provide personalized tips and activities for supporting child development.
-
-To send reminders for doctor’s visits and screenings (if you enable notifications).
-
-To improve our services and user experience.
-
-3. Data Storage and Security
-
-Your data is stored securely in the cloud with industry-standard encryption.
-
-We do not sell or share your personal information with third parties for marketing.
-
-Only authorized personnel have access to manage system-level data.
-
-4. Sharing of Information
-
-We do not share personal information with third parties except:
-
-When required by law or legal processes.
-
-With your explicit consent (e.g., sharing milestone summaries with a doctor).
-
-5. Children’s Privacy
-
-The app is designed for parents and caregivers, not for children to use directly. We do not knowingly collect data from children under 13 without parental consent.
-
-6. Your Rights
-
-You have the right to:
-
-Access, update, or delete your child’s information at any time within the app.
-
-Request deletion of your account and associated data (see below).
-
-7. Account Deletion
-
-If you wish to delete your account and all associated data, you can:
-
-Go to the Settings section in the app and select Delete Account; or
-
-Contact us at mine4christ@gmail.com
